@@ -20,4 +20,6 @@ Verify that the password generates with all correct requirements
 
 make sure page works on big or small screens
 
-Link - 
+Link - https://sjbdlt.github.io/SB-Challenge-3-ASU/
+
+![Alt text](image.png)
